@@ -1,3 +1,5 @@
+My personal portfolio — built with Next.js, TypeScript, and Tailwind CSS. Features smooth animations, dark/light mode and FR/EN bilingual support. Showcasing my projects, skills, and design style.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
